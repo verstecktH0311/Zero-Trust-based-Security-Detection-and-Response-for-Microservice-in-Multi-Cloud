@@ -23,7 +23,8 @@ OpenStack (Private Cloud) ←→ AWS (Public Cloud) via WireGuard tunnel
 
 ## Sơ đồ hệ thống chi tiết
 
-<img width="1176" height="707" alt="image" src="https://github.com/user-attachments/assets/27c01fec-018d-4c5b-80cb-2cdc1750ca6f" />
+
+<img width="3329" height="2059" alt="123456789" src="https://github.com/user-attachments/assets/5df93963-a337-450d-8ea0-7000bc889e09" />
 
 
 ```mermaid
